@@ -1,7 +1,7 @@
-**Hi there 👋, my username is EpossDev, or simply Eposs, I love making websites, games,... in fact everything you can do with a computer. 💻 **
+** Hi there 👋, my username is EpossDev, or simply Eposs, I love making websites, games,... in fact everything you can do with a computer. 💻 **
 
-🚀 My first [website](epossdev.github.io/misterx) is online, it is used to play a game in real fife, so unfortunately you can't use it personally.
-🔭 I'm currently working on another [website](epossdev.github.io/game) that will also be used to play a game in real life.
+> 🚀 My first [website](epossdev.github.io/misterx) is online, it is used to play a game in real fife, so unfortunately you can't use it personally.
+> 🔭 I'm currently working on another [website](epossdev.github.io/game) that will also be used to play a game in real life.
 
 👀 But my website, where I will post all my projects, is coming soon.
 
