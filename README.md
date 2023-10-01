@@ -3,7 +3,7 @@ Hi there 👋, my username is EpossDev, or simply Eposs, I love making websites,
 🚀 My first [website](https://epossdev.github.io/misterx) is online, it is used to play a game in real fife, so unfortunately you can't use it personally.</br>
 🔭 I'm currently working on another [website](https://epossdev.github.io/game) that will also be used to play a game in real life.
 
-👀 But my website, where I will post all my projects, is coming soon.
+👀 But my personal website, where I will post all my projects, is coming soon.
 
 <!--
 **EpossDev/epossdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
