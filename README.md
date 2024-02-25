@@ -2,7 +2,7 @@ Hi there 👋, my username is EpossDev, or simply Eposs, I love making websites,
 
 🚀 My first [website](https://epossdev.github.io/misterx) is online, it is used to play a game in real fife, so unfortunately you can't use it personally.</br>
 🎲 I also made a [web app](https://epossdev.github.io/random) used to choose a random element, a name for example.</br>
-🔭 I'm currently working on a [new update](https://epossdev.github.io/misterx/beta) of my first [website](https://epossdev.github.io/misterx), it is the biggest update we ever made and it will be amazing. Are you ready ? 👀
+🔭 I'm currently working on a [new update](https://epossdev.github.io/misterx/beta) of my first [website](https://epossdev.github.io/misterx), it's the biggest update I've ever made and it will be amazing. Are you ready ? 👀
 
 <!--
 **EpossDev/epossdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
